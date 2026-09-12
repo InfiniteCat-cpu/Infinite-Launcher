@@ -1,0 +1,3 @@
+Pillow
+pywin32
+pyinstaller
